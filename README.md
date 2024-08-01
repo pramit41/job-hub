@@ -1,1 +1,1 @@
-Self project: Jobsite for smaller local busineses 
+Self project: Jobsite for smaller local businesses 
