@@ -1,7 +1,19 @@
-h1 {
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color:rgb(71, 169, 123);
     text-align: center;
+    align-items: center;
+    color: white;
 }
 
-.headerSubtext {
-    text-align: center;
+.profile-container{
+    display: flex;
+    flex-direction: column;
+    cursor: pointer; 
+}
+
+.material-icons {
+    font-size: 44px;
 }
